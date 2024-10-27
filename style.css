@@ -90,7 +90,7 @@ main{
 }
 
 .marked{
-    background-image: url(/flag.png);
+    background-image: url(./flag.png);
     background-size: 100%;
     background-repeat: no-repeat;
 }
